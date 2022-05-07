@@ -1,18 +1,16 @@
 ![Thumbnail](Images/thumbnail.png)
 
-## Template Mod
- - Template Point 1
+## Big Domes For All
+ Allows building of big domes without breakthroughs.
 
 ### Description:
-This is a super great mod!
+Domes unlocked:
+  - Trigon
+  - Oval
+  - Diamond
 
 ### Options:
-This mod has lots of options!
-
-    Pick Your Poision
-        Yummy
-        Yucky
-
+This mod has no options!
 
 ## Notes:
 If you have any feedback please contact me directly instead of reporting the mod. I'm always happy to take requests as well.<br>
@@ -24,7 +22,7 @@ Your feedback helps me produce better quality mods!
 Have a good game,<br>
 <3 Fiz
 
-## Info:
+
 
 ### Changelog:
  Details on the latest changes as well as changes in future versions are found in [*Info/changelog.md*](Info/changelog.md)
@@ -46,8 +44,8 @@ My mods are available on Steam, the Paradox Website, as well as GitHub:
 [GitHub](https://github.com/Surviving-Mars-Mods)
 
 ### Special Thanks
-  - Thanks to everyone who has helped me learning to Mod better.
-  - Thanks to ChoGGi for his excellent excellent examples and helpful attitude.
+  - Thanks to everyone who has helped me learn to Mod better.
+  - Thanks to ChoGGi for his excellent  examples and helpful attitude.
   - Thanks to everyone who enjoys my Mods and provides feedback on them.
 
 ### License:
