@@ -1,6 +1,6 @@
 return PlaceObj('ModDef', {
 	'title', "Big Domes For All",
-	'description', "This mod is in early release for Patrons. https://patreon.com/thefiz",
+	'description', "Adds techs for big domes to the standard tech tree, making them available in every game. https://github.com/Surviving-Mars-Mods/Big-Domes-For-All",
 	'image', "Images/thumbnail.png",
 	'last_changes', "https://github.com/Surviving-Mars-Mods/Big-Domes-For-All",
 	'ignore_files', {
